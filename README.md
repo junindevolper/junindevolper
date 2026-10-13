@@ -11,6 +11,5 @@
 
 </div>
 
-Sobre mim
-
+<h2>Sobre mim</h2>
 Sou um desenvolvedor em formação, interessado em desenvolvimento web e na criação de aplicações práticas. Busco aprimorar minhas habilidades, escrever código organizado e desenvolver soluções funcionais.
