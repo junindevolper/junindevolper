@@ -1,31 +1,68 @@
- <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=00FD3B" alt=""/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/%3C%2F%3E-00FD3B?style=for-the-badge&labelColor=101810" alt="Símbolo de desenvolvimento web"/>
+ <table border="0">
+<tr>
+<td width="150" align="center" valign="middle">
+<img src="./assets/junindev.png" width="130" alt="Logo JuninDev"/>
+</td>
+<td valign="middle">
 
 # JuninDevolper
 
 **Desenvolvedor Web em formação**
 
-HTML · CSS · JavaScript · Python
+Construindo projetos, aprendendo novas tecnologias e transformando ideias em soluções funcionais.
 
-<br/>
+</td>
+</tr>
+</table>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00FD3B" alt=""/>
-
-</div>
+---
 
 ## Sobre mim
 
-Sou um desenvolvedor em formação, focado em desenvolvimento web e na criação de projetos práticos. Busco aprimorar minhas habilidades, desenvolver interfaces bem estruturadas e escrever código limpo e funcional.
+Sou um desenvolvedor em formação, interessado em desenvolvimento web e na criação de aplicações práticas. Busco aprimorar minhas habilidades, escrever código organizado e desenvolver projetos que resolvam problemas reais.
 
+## Tecnologias
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python&theme=dark" alt="HTML, CSS, JavaScript e Python"/>
+
+</div>
+
+## Projetos
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### CashUp+
+
+Aplicação de organização financeira voltada para freelancers.
+
+**Tecnologias:** HTML, CSS, JavaScript e Python.
+
+</td>
+<td width="50%" valign="top">
+
+### Portfólio
+
+Meu espaço para apresentar projetos, demonstrar habilidades e acompanhar minha evolução como desenvolvedor.
+
+**Tecnologias:** HTML, CSS e JavaScript.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="left">
+
+<a href="https://github.com/junindevolper?tab=repositories">
+<img src="https://img.shields.io/badge/Projetos-181818?style=flat-square&logo=github&logoColor=FFFFFF" alt="Ver repositórios"/>
+</a>
+<a href="https://github.com/junindevolper">
+<img src="https://img.shields.io/badge/GitHub-181818?style=flat-square&logo=github&logoColor=FFFFFF" alt="Perfil do GitHub"/>
+</a>
+
+</div>
