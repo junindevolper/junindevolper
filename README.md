@@ -11,5 +11,5 @@
 
 </div>
 
-<p font-weight="600"></p>
+<p style="font-weight="600""></p>
 Sou um desenvolvedor em formação, interessado em desenvolvimento web e na criação de aplicações práticas. Busco aprimorar minhas habilidades, escrever código organizado e desenvolver soluções funcionais.
