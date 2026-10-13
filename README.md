@@ -1,97 +1,40 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=180&color=0:101810,50:102A18,100:00FD3B&text=JuninDevolper&fontSize=48&fontColor=FFFFFF&fontAlignY=42&desc=Desenvolvedor%20em%20forma%C3%A7%C3%A3o&descSize=17&descAlignY=65&animation=fadeIn" alt="Banner JuninDevolper"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:101810,100:12351B&text=JuninDevolper&fontSize=42&fontColor=FFFFFF&fontAlignY=45&desc=Desenvolvedor%20Web&descSize=16&descAlignY=70" alt="JuninDevolper"/>
 
 <br/>
 
-<a href="https://github.com/junindevolper">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=00FD3B&center=true&vCenter=true&width=500&lines=Transformando+ideias+em+c%C3%B3digo.;Front-end+%7C+Python+%7C+Web+Development" alt="Animação de apresentação"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/junindevolper?tab=repositories">
-  <img src="https://img.shields.io/badge/MEUS_PROJETOS-181818?style=for-the-badge&logo=github&logoColor=00FD3B" alt="Meus projetos"/>
-</a>
-<a href="https://github.com/junindevolper?tab=followers">
-  <img src="https://img.shields.io/badge/GITHUB-181818?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Meu GitHub"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181818?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/junindevolper)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
 </div>
 
-<br/>
+## 👋 Sobre mim
 
-## 👨‍💻 Sobre mim
+Desenvolvedor em formação, focado em desenvolvimento web e na criação de projetos práticos com **HTML, CSS, JavaScript e Python**.
 
-Olá! Sou um desenvolvedor em formação que gosta de criar projetos, explorar novas tecnologias e transformar ideias em soluções funcionais.
-
-Meu foco é construir aplicações web com interfaces bem elaboradas, código organizado e atenção à experiência de quem utiliza cada projeto.
-
-- 🌐 **Front-end:** criação de interfaces com HTML, CSS e JavaScript.
-- 🐍 **Python:** desenvolvimento de lógica e aplicações.
-- 🚀 **Objetivo:** evoluir constantemente e desenvolver projetos cada vez melhores.
-
-## 🛠️ Tecnologias & ferramentas
-
-<div align="center">
-
-### 🎨 Front-end
-
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS e JavaScript"/>
-
-### ⚙️ Back-end
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
-
-### 🔧 Ferramentas
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub e VS Code"/>
-
-</div>
-
-## 🚀 Projetos em destaque
+## 🚀 Projetos
 
 <div align="center">
 
 <a href="https://github.com/junindevolper?tab=repositories">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=junindevolper&repo=junindevolper&theme=transparent&hide_border=true&title_color=00FD3B&icon_color=00FD3B&text_color=C9D1D9" alt="Repositório de perfil"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=junindevolper&repo=junindevolper&hide_border=true&bg_color=00000000&title_color=2EA043&icon_color=2EA043&text_color=9CA3AF" alt="Repositório do GitHub"/>
 </a>
-<a href="https://github.com/junindevolper?tab=repositories">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junindevolper&layout=compact&theme=transparent&hide_border=true&title_color=00FD3B&text_color=C9D1D9" alt="Linguagens dos repositórios"/>
-</a>
+
+[**Ver todos os projetos →**](https://github.com/junindevolper?tab=repositories)
 
 </div>
 
-### 💡 O que estou construindo
-
-| Projeto | Objetivo |
-|:--|:--|
-| 💰 **CashUp+** | Organização financeira para freelancers. |
-| 💻 **Portfólio** | Apresentação de projetos e habilidades. |
-
-*Veja os projetos disponíveis no meu [GitHub →](https://github.com/junindevolper?tab=repositories)*
-
-## 📊 Minha atividade no GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=junindevolper&show_icons=true&hide_border=true&bg_color=00000000&title_color=00FD3B&icon_color=00FD3B&text_color=C9D1D9&rank_icon=github" alt="Estatísticas GitHub"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=junindevolper&theme=transparent&hide_border=true&ring=00FD3B&fire=FF9F43&currStreakLabel=00FD3B&sideLabels=C9D1D9&dates=8B949E" alt="Sequência de contribuições"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=junindevolper&show_icons=true&hide_border=true&bg_color=00000000&title_color=2EA043&icon_color=2EA043&text_color=9CA3AF&hide_rank=true" alt="Estatísticas do GitHub"/>
 
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=junindevolper&bg_color=00000000&color=C9D1D9&line=00FD3B&point=FF9F43&area=true&hide_border=true&custom_title=Minha%20atividade%20de%20desenvolvimento" alt="Gráfico de atividade"/>
-
-</div>
-
-## 🎯 No radar
-
-<div align="center">
-
-| 📚 Aprender | 🧩 Praticar | 🚀 Evoluir |
-|:--:|:--:|:--:|
-| Novas técnicas | Projetos reais | Código melhor |
-| Boas práticas | Resolver problemas | Construir soluções |
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junindevolper&layout=compact&hide_border=true&bg_color=00000000&title_color=2EA043&text_color=9CA3AF&langs_count=4" alt="Linguagens mais utilizadas"/>
 
 </div>
 
@@ -99,16 +42,6 @@ Meu foco é construir aplicações web com interfaces bem elaboradas, código or
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00FD3B,50:102A18,100:00FD3B" width="100%" alt="Divisor verde"/>
-
-<br/>
-
-### 💚 Obrigado pela visita!
-
-**Sempre aprendendo. Sempre construindo.**
-
-<a href="https://github.com/junindevolper">
-  <img src="https://img.shields.io/badge/Feito_com-💚_e_código-181818?style=for-the-badge" alt="Feito com dedicação e código"/>
-</a>
+[![GitHub](https://img.shields.io/badge/Confira_meu_GitHub-181818?style=flat-square&logo=github&logoColor=white)](https://github.com/junindevolper)
 
 </div>
